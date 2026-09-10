@@ -1,11 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/sanasimran1403-jpg/sanasimran1403-jpg/main/sns-logo.png" width="120" />
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=Sana%20Simran&fontSize=40&fontColor=58a6ff&animation=fadeIn" />
 </p>
-
 <p align="center">
   <b>Security Researcher · Vulnerability Hunter · Tool Builder</b><br>
   <a href="https://twitter.com/sana_simrann">Twitter</a> ·
@@ -15,12 +13,12 @@
 
 ---
 
-- 🔬 Currently doing **vulnerability research** via fuzzing (AFL++, libFuzzer)
-- 🐛 Reported bugs in **Exiv2** ([#9464](https://github.com/Exiv2/exiv2/issues/9464) · fixed in v0.29.0) and **stb_image** ([#2001](https://github.com/nothings/stb/issues/2001))
-- 🛠️ Building a [security portfolio](https://github.com/sanasimran1403-jpg?tab=repositories) — 32 projects across offensive, defensive & cloud security
-- 🎯 Focused on **low-level vulnerability research** — C/C++ memory safety bugs
-- 🌱 Learning kernel internals, binary exploitation & advanced fuzzing techniques
-- 📍 Always learning, always breaking things (responsibly)
+-  Currently doing **vulnerability research** via fuzzing (AFL++, libFuzzer)
+-  Reported bugs in **Exiv2** ([#9464](https://github.com/Exiv2/exiv2/issues/9464) · fixed in v0.29.0) and **stb_image** ([#2001](https://github.com/nothings/stb/issues/2001))
+-  Building a [security portfolio](https://github.com/sanasimran1403-jpg?tab=repositories) — 32 projects across offensive, defensive & cloud security
+-  Focused on **low-level vulnerability research** — C/C++ memory safety bugs
+-  Learning kernel internals, binary exploitation & advanced fuzzing techniques
+-  Always learning, always breaking things (responsibly)
 
 ---
 
